@@ -1,8 +1,7 @@
-
 {
   "dialect": "postgresql",
   "schema": "./src/db/schema.ts",
   "dbCredentials": {
-    "url": "postgresql://postgres:areeba@127.0.0.1:5432/soulmarket"
+    "url": "postgresql://neondb_owner:npg_8sht9NUfVdWX@ep-snowy-breeze-ahekd2ld.c-3.us-east-1.aws.neon.tech/neondb?sslmode=require"
   }
 }
