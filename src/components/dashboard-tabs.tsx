@@ -156,12 +156,12 @@ export function DashboardTabs({
                   A
                 </span>
                 <div>
-                  <p className="font-semibold text-ink">Areeba Khan</p>
+                  <p className="font-semibold text-ink">Areeba </p>
                   <p className="text-sm text-muted">areeba@soulmarket.com</p>
                 </div>
               </div>
               <div className="mt-6 grid gap-4 sm:grid-cols-2">
-                <SettingField label="Full Name" value="Areeba Khan" />
+                <SettingField label="Full Name" value="Areeba " />
                 <SettingField label="Email" value="areeba@soulmarket.com" />
                 <SettingField label="Phone" value="+92 300 1234567" />
                 <SettingField label="Location" value="Lahore, Pakistan" />
