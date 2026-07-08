@@ -56,7 +56,7 @@
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/<your-username>/soulmarket.git
+git clone https://github.com/<areebamustafa0>/soulmarket.git
 cd soulmarket
 npm install
 ```
@@ -147,7 +147,7 @@ All tokens live in `src/app/globals.css` as CSS variables and drive the entire U
 
 ### Frontend — Vercel (recommended)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/<your-username>/soulmarket&env=DATABASE_URL&envDescription=PostgreSQL%20connection%20string)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/<areebamustafa0>/soulmarket&env=DATABASE_URL&envDescription=PostgreSQL%20connection%20string)
 
 1. Push this repo to GitHub.
 2. Import it in [Vercel](https://vercel.com/new).
